@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|c:\\users\\daluz\\source\\repos\\integracaospotify\\integracaospotify\\spotifydownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|solutionrelative:integracaospotify\\spotifydownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|c:\\users\\daluz\\source\\repos\\integracaospotify\\integracaospotify\\youtubedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|solutionrelative:integracaospotify\\youtubedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|c:\\users\\daluz\\source\\repos\\integracaospotify\\integracaospotify\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34D993F-B573-43C9-9F0F-406705FAD036}|IntegracaoSpotify\\IntegracaoSpotify.csproj|solutionrelative:integracaospotify\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 597,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpotifyDownload.cs",
+              "DocumentMoniker": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\SpotifyDownload.cs",
+              "RelativeDocumentMoniker": "IntegracaoSpotify\\SpotifyDownload.cs",
+              "ToolTip": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\SpotifyDownload.cs",
+              "RelativeToolTip": "IntegracaoSpotify\\SpotifyDownload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:39:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoutubeDownload.cs",
+              "DocumentMoniker": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\YoutubeDownload.cs",
+              "RelativeDocumentMoniker": "IntegracaoSpotify\\YoutubeDownload.cs",
+              "ToolTip": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\YoutubeDownload.cs",
+              "RelativeToolTip": "IntegracaoSpotify\\YoutubeDownload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:38:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\Program1.cs",
+              "RelativeDocumentMoniker": "IntegracaoSpotify\\Program1.cs",
+              "ToolTip": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\Program1.cs",
+              "RelativeToolTip": "IntegracaoSpotify\\Program1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:14:42.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

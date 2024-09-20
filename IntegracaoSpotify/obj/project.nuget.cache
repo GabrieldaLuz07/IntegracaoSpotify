@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHmR5IiQlENwMaW0d8WQsFLLAkT/QAzEkJTyorRDcw9k4xk/mDW8RAHNv6oq7F5aG+Yyt6LB2NKa1Q8d+B1YVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daluz\\source\\repos\\IntegracaoSpotify\\IntegracaoSpotify\\IntegracaoSpotify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daluz\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\daluz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\daluz\\.nuget\\packages\\spotifyapi.web\\7.1.0\\spotifyapi.web.7.1.0.nupkg.sha512",
+    "C:\\Users\\daluz\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\daluz\\.nuget\\packages\\youtubeexplode\\6.4.0\\youtubeexplode.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
